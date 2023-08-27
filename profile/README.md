@@ -1,5 +1,3 @@
----
-
 # BlueFoxHost
 
 A new take on reliable and affordable hosting. BlueFoxHost provides stable services while maintaining efficient customer service.
@@ -13,5 +11,3 @@ At BlueFoxHost, we are committed to providing reliable hosting services and deve
 - Website: [BlueFoxHost.com](https://bluefoxhost.com)
 - Email: hello@bluefoxhost.com
 - Discord: [discord.gg/bluefox](https://discord.gg/bluefox)
-
----
